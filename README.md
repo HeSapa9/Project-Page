@@ -1,15 +1,15 @@
 [![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
 
-# Postdoc OASIS
-This is the central hub for information pertaining to ESIIL Postdocs
+# ESIIL Tribal Resilience Data Science Page
+This is the central hub for information pertaining to ESIIL work with Tribal partners.
 
-# [Your Name]
+# Jim J. Sanovia
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to the [Sanovia] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
-## Your Project
+## Project Summaries
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+Working on good stuff
 
 ## Project Proposal
 
