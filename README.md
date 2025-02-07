@@ -17,12 +17,13 @@ Welcome to the [Sanovia] repository, part of the Environmental Data Science Inno
 <li>Oglala Lakota College NIFA Data Cube - Consultant</li>
 </ol>
 
-## Project Proposal
+## Project Summaries
 
 
 [Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Collaborators and Co-Authors 
+
 
 [List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
 
