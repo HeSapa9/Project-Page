@@ -8,10 +8,17 @@ This is the central hub for information pertaining to ESIIL work with Tribal par
 Welcome to the [Sanovia] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
 ## Project Summaries
-
-Working on good stuff
+<ol>
+<li>Maka Sitomniya - Technical Lead</li>
+<li>Sicangu Climate Center - Consultant</li>
+<li>Oglala Lakota College NIFA Data Cube - Consultant</li>
+<li>Earth Lab's Earth Data Science Certificate Course - Teaching Assistant</li>
+<li>CIRES SI Group #3 - Mentoring graduate students at CU Boulder - Committee Member</li>
+<li>Southern California Edison Fire Risk Model - Contributor</li>
+</ol>
 
 ## Project Proposal
+
 
 [Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
